@@ -71,7 +71,7 @@ class Apachenote extends Cache {
         $this->open();
         $value  =   serialize($value);
         $name   =   $this->options['prefix'].$name;        
-        $s      =   'S' . pack('NN', strlen($name), strlen($value)) . $name . $value;
+        $s      =   'Slist' . pack('NN', strlen($name), strlen($value)) . $name . $value;
 
         fwrite($this->handler, $s);
         $ret = fgets($this->handler);

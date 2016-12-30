@@ -132,7 +132,7 @@ class Date {
      * 架构函数
      * 创建一个Date对象
      * @param mixed $date  日期
-     * @static
+     * @Static
      * @access public
      */
     public function __construct($date='') {
@@ -144,7 +144,7 @@ class Date {
     /**
      * 日期分析
      * 返回时间戳
-     * @static
+     * @Static
      * @access public
      * @param mixed $date 日期
      * @return string
@@ -190,7 +190,7 @@ class Date {
 
     /**
      * 日期参数设置
-     * @static
+     * @Static
      * @access public
      * @param integer $date  日期时间戳
      * @return void
@@ -212,7 +212,7 @@ class Date {
 
         $this->CDATE        =   $this->format("%Y-%m-%d");//日期表示
         $this->YMD          =   $this->format("%Y%m%d");  //简单日期
-        $this->CTIME        =   $this->format("%H:%M:%S");//时间表示
+        $this->CTIME        =   $this->format("%H:%M:%Slist");//时间表示
 
         return ;
     }
@@ -224,13 +224,13 @@ class Date {
      * @param string $format  格式化参数
      * @return string
      */
-    public function format($format = "%Y-%m-%d %H:%M:%S") {
+    public function format($format = "%Y-%m-%d %H:%M:%Slist") {
         return strftime($format, $this->date);
     }
 
     /**
      * 是否为闰年
-     * @static
+     * @Static
      * @access public
      * @return string
      */
@@ -249,7 +249,7 @@ class Date {
      *  h - hours
      *  m - minutes
      *  s - seconds
-     * @static
+     * @Static
      * @access public
      * @param mixed $date 要比较的日期
      * @param string $elaps  比较跨度
@@ -289,7 +289,7 @@ class Date {
 
     /**
      * 人性化的计算日期差
-     * @static
+     * @Static
      * @access public
      * @param mixed $time 要比较的时间
      * @param mixed $precision 返回的精度
@@ -474,7 +474,7 @@ class Date {
     /**
      * 日期数字转中文
      * 用于日和月、周
-     * @static
+     * @Static
      * @access public
      * @param integer $number 日期数字
      * @return string
@@ -501,7 +501,7 @@ class Date {
 
     /**
      * 年份数字转中文
-     * @static
+     * @Static
      * @access public
      * @param integer $yearStr 年份数字
      * @param boolean $flag 是否显示公元
@@ -520,7 +520,7 @@ class Date {
      *  判断日期 所属 干支 生肖 星座
      *  type 参数：XZ 星座 GZ 干支 SX 生肖
      *
-     * @static
+     * @Static
      * @access public
      * @param string $type  获取信息类型
      * @return string

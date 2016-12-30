@@ -168,8 +168,8 @@ class Dispatcher {
             if(is_file(MODULE_PATH.'Conf/tags.php'))
                 Hook::import(include MODULE_PATH.'Conf/tags.php');
             // 加载模块函数文件
-            if(is_file(MODULE_PATH.'Common/function.php'))
-                include MODULE_PATH.'Common/function.php';
+            if(is_file(MODULE_PATH.'Common/functions.php'))
+                include MODULE_PATH.'Common/functions.php';
             
             $urlCase        =   C('URL_CASE_INSENSITIVE');
             // 加载模块的扩展配置文件

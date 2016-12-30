@@ -21,7 +21,7 @@ class Db {
 
     /**
      * 取得数据库类实例
-     * @static
+     * @Static
      * @access public
      * @param mixed $config 连接配置
      * @return Object 返回数据库驱动类
@@ -48,7 +48,7 @@ class Db {
 
     /**
      * 数据库连接参数解析
-     * @static
+     * @Static
      * @access private
      * @param mixed $config
      * @return array
@@ -101,7 +101,7 @@ class Db {
     /**
      * DSN解析
      * 格式： mysql://username:passwd@localhost:3306/DbName?param1=val1&param2=val2#utf8
-     * @static
+     * @Static
      * @access private
      * @param string $dsnStr
      * @return array

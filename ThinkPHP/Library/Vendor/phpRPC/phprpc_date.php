@@ -377,7 +377,7 @@ class PHPRPC_Date {
         return $this->toString();
     }
 
-// public instance & static methods
+// public instance & Static methods
 
     function dayOfWeek() {
         $num = func_num_args();
@@ -415,7 +415,7 @@ class PHPRPC_Date {
         return $days[$m - 1] + $d;
     }
 
-// public static methods
+// public Static methods
 
     function now() {
         $date = new PHPRPC_Date();

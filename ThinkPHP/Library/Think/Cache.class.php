@@ -47,7 +47,7 @@ class Cache {
 
     /**
      * 取得缓存类实例
-     * @static
+     * @Static
      * @access public
      * @return mixed
      */

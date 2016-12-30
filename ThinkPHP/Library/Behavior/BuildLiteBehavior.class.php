@@ -33,7 +33,7 @@ class BuildLiteBehavior {
             include CONF_PATH.'lite.php':
             array(
                 THINK_PATH.'Common/functions.php',
-                COMMON_PATH.'Common/function.php',
+                COMMON_PATH.'Common/functions.php',
                 CORE_PATH . 'Think'.EXT,
                 CORE_PATH . 'Hook'.EXT,
                 CORE_PATH . 'App'.EXT,

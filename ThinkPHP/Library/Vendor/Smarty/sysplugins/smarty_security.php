@@ -49,9 +49,9 @@ class Smarty_Security {
      */
     public $trusted_dir = array();
     /**
-     * This is an array of trusted static classes.
+     * This is an array of trusted Static classes.
      *
-     * If empty access to all static classes is allowed.
+     * If empty access to all Static classes is allowed.
      * If set to 'none' none is allowed.
      * @var array
      */
@@ -187,12 +187,12 @@ class Smarty_Security {
     }
 
     /**
-     * Check if static class is trusted.
+     * Check if Static class is trusted.
      *
      * @param string $class_name
      * @param object $compiler compiler object
      * @return boolean true if class is trusted
-     * @throws SmartyCompilerException if static class is not trusted
+     * @throws SmartyCompilerException if Static class is not trusted
      */
     public function isTrustedStaticClass($class_name, $compiler)
     {
@@ -200,7 +200,7 @@ class Smarty_Security {
             return true;
         }
 
-        $compiler->trigger_template_error("access to static class '{$class_name}' not allowed by security setting");
+        $compiler->trigger_template_error("access to Static class '{$class_name}' not allowed by security setting");
         return false; // should not, but who knows what happens to the compiler in the future?
     }
 

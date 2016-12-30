@@ -1,6 +1,6 @@
 <?php
 #
-#    S P Y C
+#    Slist P Y C
 #      a simple php yaml class
 #   v0.3
 #

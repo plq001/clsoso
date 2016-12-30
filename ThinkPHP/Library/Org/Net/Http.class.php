@@ -37,7 +37,7 @@ class Http {
     * 使用 fsockopen 通过 HTTP 协议直接访问(采集)远程文件
     * 如果主机或服务器没有开启 CURL 扩展可考虑使用
     * fsockopen 比 CURL 稍慢,但性能稳定
-    * @static
+    * @Static
     * @access public
     * @param string $url 远程URL
     * @param array $conf 其他配置信息
@@ -134,7 +134,7 @@ class Http {
      * 下载文件
      * 可以指定下载显示的文件名，并自动发送相应的Header信息
      * 如果指定了content参数，则下载该参数的内容
-     * @static
+     * @Static
      * @access public
      * @param string $filename 下载文件名
      * @param string $showname 下载显示的文件名

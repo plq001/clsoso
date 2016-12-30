@@ -1573,7 +1573,7 @@ class FirePHP {
     
                 $name = $raw_name = $plain_name;
                 if ($property->isStatic()) {
-                    $name = 'static:'.$name;
+                    $name = 'Static:'.$name;
                 }
                 if ($property->isPublic()) {
                     $name = 'public:'.$name;

@@ -2660,7 +2660,7 @@ static public $yy_action = array(
             $this->_retvalue = $this->yystack[$this->yyidx + -2]->minor.'::'.$this->yystack[$this->yyidx + 0]->minor;
         }
     } else {
-        $this->compiler->trigger_template_error ("static class '".$this->yystack[$this->yyidx + -2]->minor."' is undefined or not allowed by security setting");
+        $this->compiler->trigger_template_error ("Static class '".$this->yystack[$this->yyidx + -2]->minor."' is undefined or not allowed by security setting");
     }
     }
 #line 2662 "smarty_internal_templateparser.php"

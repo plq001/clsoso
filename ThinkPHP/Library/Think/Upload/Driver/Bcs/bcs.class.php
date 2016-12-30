@@ -1192,7 +1192,7 @@ class BaiduBCS {
 			$content .= "Time=" . $opt ['time'] . "\n";
 		}
 		if (isset ( $opt ['size'] )) {
-			$flags .= 'S';
+			$flags .= 'Slist';
 			$content .= "Size=" . $opt ['size'] . "\n";
 		}
 		$content = $flags . "\n" . $content;

@@ -509,7 +509,7 @@ class ChromePhp{
      */
     protected function _getPropertyKey(ReflectionProperty $property)
     {
-        $static = $property->isStatic() ? ' static' : '';
+        $static = $property->isStatic() ? ' Static' : '';
         if ($property->isPublic()) {
             return 'public' . $static . ' ' . $property->getName();
         }

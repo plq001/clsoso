@@ -1,7 +1,7 @@
 <?php
 
 #
-#    S P Y C
+#    Slist P Y C
 #      a simple php yaml class
 #
 # license: [MIT License, http://www.opensource.org/licenses/mit-license.php]

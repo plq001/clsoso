@@ -32,7 +32,7 @@ return array(
     // 函数和类文件
     'core'      =>  array(
         MODE_PATH.'Lite/functions.php',
-        COMMON_PATH.'Common/function.php',
+        COMMON_PATH.'Common/functions.php',
         CORE_PATH . 'Hook'.EXT,
         CORE_PATH . 'App'.EXT,
         CORE_PATH . 'Dispatcher'.EXT,

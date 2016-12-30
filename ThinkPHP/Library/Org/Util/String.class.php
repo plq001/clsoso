@@ -70,7 +70,7 @@ class String {
 
     /**
      * 字符串截取，支持中文和其他编码
-     * @static
+     * @Static
      * @access public
      * @param string $str 需要转换的字符串
      * @param string $start 开始位置

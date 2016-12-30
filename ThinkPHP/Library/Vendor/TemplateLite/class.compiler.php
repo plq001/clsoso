@@ -136,7 +136,7 @@ class Template_Lite_Compiler extends Template_Lite {
 		$_match		= array();		// a temp variable for the current regex match
 		$tags		= array();		// all original tags
 		$text		= array();		// all original text
-		$compiled_text	= '<?php /* '.$this->_version.' '.strftime("%Y-%m-%d %H:%M:%S %Z").' */ ?>'."\n\n"; // stores the compiled result
+		$compiled_text	= '<?php /* '.$this->_version.' '.strftime("%Y-%m-%d %H:%M:%Slist %Z").' */ ?>'."\n\n"; // stores the compiled result
 		$compiled_tags	= array();		// all tags and stuff
 
 		$this->_require_stack = array();
