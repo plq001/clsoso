@@ -3767,3 +3767,221 @@ INFO: [ app_end ] --START--
 INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000575s ]
 INFO: [ app_end ] --END-- [ RunTime:0.000615s ]
 
+[ 2016-12-30T17:48:15+08:00 ] ::1 /index.php/Home/Index/Slist.html?key=%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000572s ]
+NOTIC: [2] Missing argument 3 for get_list_json_lei_cilibaba(), called in D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Common\functions.php ç¬¬ 22 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000634s ]
+
+[ 2016-12-30T17:50:50+08:00 ] ::1 /index.php/Home/Index/Slist.html?key=%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+NOTIC: [2] Missing argument 3 for get_list_json_lei_cilibaba(), called in D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Common\functions.php ç¬¬ 22 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000603s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000645s ]
+
+[ 2016-12-30T17:51:42+08:00 ] ::1 /index.php/Home/Index/Slist.html?key=%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+NOTIC: [2] Missing argument 3 for get_list_json_lei_cilibaba(), called in D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Common\functions.php ç¬¬ 22 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000557s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000598s ]
+
+[ 2016-12-30T17:51:49+08:00 ] ::1 /index.php/Home/Index/Slist.html?key=%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+NOTIC: [2] Missing argument 3 for get_list_json_lei_cilibaba(), called in D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Common\functions.php ç¬¬ 22 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000551s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000592s ]
+
+[ 2016-12-30T17:52:35+08:00 ] ::1 /index.php/Home/Index/Slist.html?key=%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+NOTIC: [2] Missing argument 3 for get_list_json_lei_cilibaba(), called in D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Common\functions.php ç¬¬ 22 è¡Œ.
+NOTIC: [8] Array to string conversion D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Controller\IndexController.class.php ç¬¬ 11 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000538s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000570s ]
+
+[ 2016-12-30T17:52:38+08:00 ] ::1 /index.php/Home/Index/Slist.html?key=%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000520s ]
+NOTIC: [2] Missing argument 3 for get_list_json_lei_cilibaba(), called in D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Common\functions.php ç¬¬ 22 è¡Œ.
+NOTIC: [8] Array to string conversion D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Controller\IndexController.class.php ç¬¬ 11 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000506s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000539s ]
+
+[ 2016-12-30T17:53:15+08:00 ] ::1 /index.php/Home/Index/Slist.html?key=%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+NOTIC: [2] Missing argument 3 for get_list_json_lei_cilibaba(), called in D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Controller\IndexController.class.php on line 12 and defined D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Common\functions.php ç¬¬ 22 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000594s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000633s ]
+
+[ 2016-12-30T17:53:25+08:00 ] ::1 /index.php/Home/Index/Slist.html?key=%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+NOTIC: [2] Missing argument 3 for get_list_json_lei_cilibaba(), called in D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Controller\IndexController.class.php on line 12 and defined D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Common\functions.php ç¬¬ 22 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000587s ]
+
+[ 2016-12-30T17:53:35+08:00 ] ::1 /index.php/Home/Index/Slist.html?key=%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+NOTIC: [2] Missing argument 3 for get_list_json_lei_cilibaba(), called in D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Controller\IndexController.class.php on line 12 and defined D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Common\functions.php ç¬¬ 22 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000614s ]
+
+[ 2016-12-30T17:54:13+08:00 ] ::1 /index.php/Home/Index/Slist.html?key=%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000488s ]
+NOTIC: [2] Missing argument 3 for get_list_json_lei_cilibaba(), called in D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Controller\IndexController.class.php on line 12 and defined D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Common\functions.php ç¬¬ 22 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000554s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000593s ]
+
+[ 2016-12-30T17:57:14+08:00 ] ::1 /index.php/Home/Index/Slist.html?key=%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000442s ]
+NOTIC: [2] Missing argument 3 for get_list_json_lei_cilibaba(), called in D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Controller\IndexController.class.php on line 12 and defined D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Common\functions.php ç¬¬ 22 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000619s ]
+
+[ 2016-12-30T17:58:20+08:00 ] ::1 /index.php/Home/Index/Slist.html?key=%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+NOTIC: [2] Missing argument 3 for get_list_json_lei_cilibaba(), called in D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Controller\IndexController.class.php on line 12 and defined D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Common\functions.php ç¬¬ 22 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000558s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000600s ]
+
+[ 2016-12-30T17:59:14+08:00 ] ::1 /index.php/Home/Index/Slist.html?key=%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+NOTIC: [2] Missing argument 3 for get_list_json_lei_cilibaba(), called in D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Controller\IndexController.class.php on line 12 and defined D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Common\functions.php ç¬¬ 22 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000517s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000561s ]
+
+[ 2016-12-30T18:01:51+08:00 ] ::1 /index.php/Home/Index/Slist.html?key=%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+NOTIC: [2] Missing argument 3 for get_list_json_lei_cilibaba(), called in D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Controller\IndexController.class.php on line 12 and defined D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Common\functions.php ç¬¬ 22 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000536s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000586s ]
+
+[ 2016-12-30T18:02:54+08:00 ] ::1 /index.php/Home/Index/Slist.html?key=%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+NOTIC: [2] Missing argument 3 for get_list_json_lei_cilibaba(), called in D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Controller\IndexController.class.php on line 12 and defined D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Common\functions.php ç¬¬ 22 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000510s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000563s ]
+
+[ 2016-12-30T18:03:11+08:00 ] ::1 /index.php/Home/Index/Slist.html?key=%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+NOTIC: [2] Missing argument 3 for get_list_json_lei_cilibaba(), called in D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Controller\IndexController.class.php on line 12 and defined D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Common\functions.php ç¬¬ 22 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000765s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000840s ]
+
+[ 2016-12-30T18:03:47+08:00 ] ::1 /index.php/Home/Index/Slist.html?key=%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+NOTIC: [2] Missing argument 3 for get_list_json_lei_cilibaba(), called in D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Controller\IndexController.class.php on line 12 and defined D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Common\functions.php ç¬¬ 22 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000551s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000591s ]
+
+[ 2016-12-30T18:03:59+08:00 ] ::1 /index.php/Home/Index/Slist.html?key=%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+NOTIC: [2] Missing argument 3 for get_list_json_lei_cilibaba(), called in D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Controller\IndexController.class.php on line 12 and defined D:\¿ª·¢\´ÅÁ¦ËÑË÷\clsoso\Application\Home\Common\functions.php ç¬¬ 22 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000584s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000624s ]
+

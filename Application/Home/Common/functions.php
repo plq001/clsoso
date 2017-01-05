@@ -24,18 +24,22 @@ function get_list_json_lei_cilibaba($url,$key,$sitetype)
     //$get_url="http://www.cilibaba.org/search/%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97/";
     $get_url=$url.$key;
     $html= get_html($get_url);
-    $pattern = '#<a title="(.*)" .*class="title" href="/h/(.*)">[[|<].*</a>#';    // 这是匹配的正则表达式
+    $pattern = '#<a title="(.*)" .*class="title" href="/h/(.*?)">.*</a>#';    // 这是匹配的正则表达式
     preg_match_all($pattern, $html, $matches);    //  开始匹配，该函数会把匹配结果放入 $matches数组中
   //  dump($html);
     $ret_str="";
-    $i = 0;
-    foreach($matches as $matche)
+    $ret_arr=[];
+    $i=0;
+    $i_count=count($matches[0]);
+    for($i=0;$i<$i_count;$i++)
     {
-        $ret_str=$ret_str." name:".$matches[1][$i]." url".$matches[2][$i]."<br/>";
-        $i++;
+        $title_str=$matches[1][$i];
+        $url_str = $matches[2][$i];
+        $ret_arr[]=array("title"=>$title_str,"url"=>$url_str,"nr"=>"","pic"=>"");
+       // $ret_str = $ret_str . " title:" . $title_str . " url" . $url_str. "<br/>";
     }
-    dump($matches);
-    return $ret_str;
+   // dump($ret_arr);
+    return $ret_arr;
 }
 
 function get_html($url)
